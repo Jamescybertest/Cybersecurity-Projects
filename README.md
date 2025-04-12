@@ -19,4 +19,8 @@ A hands-on project analyzing network logs to detect suspicious activity.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/james-munyabugingo)
+<a href="https://linkedin.com/in/james-munyabugingo" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
+</a>
+
+
