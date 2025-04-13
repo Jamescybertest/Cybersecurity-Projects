@@ -5,6 +5,13 @@
 ### 🚀 Project 1: Network Scanning using Nmap
 A collection of Nmap scans executed in different modes (simultaneously and sequentially), along with reconnaissance exercises and results analysis.
 
+## 🛰️ Project 1: Nmap Network Scan
+- 📁 [View Project Files](./Project1-%20Nmap-Scan)
+- 📝 Documented host discovery and service enumeration using Nmap techniques
+- 🔧 Tools Used: Nmap, Windows, Network Reconnassaince
+
+
+
 - 🔗 [Multiple Nmap Scans and their Results](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)
 - 📄 [Reconnaissance Exercise Using Nmap Tool](https://github.com/Jamescybertest/Jamescybertest/blob/d33da3aeecb0e93535e93acafab42460976c9acd/MIDTERM%20EXAM%20PRACTICAL-%20JAMES%20MUNYABUGINGO.docx)
 
