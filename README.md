@@ -5,7 +5,7 @@
 ### 🚀 Project 1: Network Scanning using Nmap
 A collection of Nmap scans executed in different modes (simultaneously and sequentially), along with reconnaissance exercises and results analysis.
 
-## 🛰️ Project 1: Nmap Network Scan
+## 🛰️ Project Details: Nmap Network Scan
 - 📁 [View Project Files](./Project1-%20Nmap-Scan)
 - 📝 Documented host discovery and service enumeration using Nmap techniques
 - 🔧 Tools Used: Nmap, Windows, Network Reconnassaince
