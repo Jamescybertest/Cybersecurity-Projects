@@ -11,7 +11,6 @@ A collection of Nmap scans executed in different modes (simultaneously and seque
 - 🔧 Tools Used: Nmap, Windows, Network Reconnassaince
 
 
-
 - 🔗 [Multiple Nmap Scans and their Results](https://github.com/Jamescybertest/Jamescybertest/commit/ed80253a78e57661e89bc2e03d7647c7326b2c70)
 - 📄 [Reconnaissance Exercise Using Nmap Tool](https://github.com/Jamescybertest/Jamescybertest/blob/d33da3aeecb0e93535e93acafab42460976c9acd/MIDTERM%20EXAM%20PRACTICAL-%20JAMES%20MUNYABUGINGO.docx)
 
