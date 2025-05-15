@@ -32,12 +32,12 @@ sudo nmap -sS seclists.org
 
 | Port | State   | Service | Meaning |
 |------|---------|---------|---------|
-| 22/tcp | Open   | SSH     | Secure remote login is active. May be used for admin access. |
-| 80/tcp | Open   | HTTP    | Web server running unencrypted content. |
-| 443/tcp | Open  | HTTPS   | Secure web server with SSL/TLS encryption. |
-| 70/tcp | Closed | Gopher  | Responded but service is not active. Legacy protocol. |
-| 113/tcp | Closed | Ident | Refused connection. Often used to identify users. |
-| 31337/tcp | Closed | Elite | Port used historically in backdoor or demo scenarios. Not in use here. |
+| 22/tcp | Open   | SSH     | Secure remote login is active. May be used for admin access. 
+| 80/tcp | Open   | HTTP    | Web server running unencrypted content. 
+| 443/tcp | Open  | HTTPS   | Secure web server with SSL/TLS encryption. 
+| 70/tcp | Closed | Gopher  | Responded but service is not active. Legacy protocol. 
+| 113/tcp | Closed | Ident | Refused connection. Often used to identify users. 
+| 31337/tcp | Closed | Elite | Port used historically in backdoor or demo scenarios. Not in use here. 
 
 **Filtered Ports:** 994 ports gave no response, likely blocked by a firewall.
 
