@@ -28,7 +28,7 @@ sudo nmap -sS seclists.org
 
 ---
 
-## 📖 Explanation of Results
+## Explanation of Results
 
 | Port | State   | Service | Meaning |
 |------|---------|---------|---------|
@@ -52,4 +52,4 @@ sudo nmap -sS seclists.org
 
 ---
 
-✅ This task demonstrated how to stealthily enumerate services using TCP SYN scanning a fundamental skill for any cybersecurity analyst involved in network reconnaissance or penetration testing.
+This task demonstrated how to stealthily enumerate services using TCP SYN scanning a fundamental skill for any cybersecurity analyst involved in network reconnaissance or penetration testing.
