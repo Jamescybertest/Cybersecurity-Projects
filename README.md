@@ -29,7 +29,7 @@ In professional cybersecurity roles — especially in **SOC analysis**, **penetr
 
 ## Task List
 
-- [Task 1: Stealthy Port Scan](./Task-1-Stealth-Scan/task-1-report.md)
+- [Task 1: Stealthy Port Scan](./Task%201%20Stealthy%20Port%20Scan/stealthy-port-scan-results-explanation.md)
 - [Task 2: Complete TCP Connection Scan](./Task-2-Full-TCP-Scan/task-2-report.md)
 - [Task 3: Service Version Identification](./Task-3-Service-Version/task-3-report.md)
 - [Task 4: IP Address and DNS Server Information](./Task-4-IP-and-DNS-Info/task-4-report.md)
