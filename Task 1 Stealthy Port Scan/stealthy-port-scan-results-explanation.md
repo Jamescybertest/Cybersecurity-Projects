@@ -1,5 +1,7 @@
 # Task 1: Stealthy TCP SYN Scan
 
+## Task Overview: You have been asked to perform a network reconnaissance without alerting the target's security systems. This requires conducting a port scan that doesn't complete the TCP handshake, thereby reducing the likelihood of detection. By sending SYN packets and waiting for responses, you can infer which ports are open, closed, or filtered without establishing a full connection.
+
 ## Purpose of the Scan
 The goal of this scan was to perform stealthy reconnaissance on a remote host to identify open ports and running services without triggering the target's intrusion detection systems (IDS) or firewalls. This technique is useful during the early phase of vulnerability assessments or penetration tests, where staying undetected is crucial.
 
